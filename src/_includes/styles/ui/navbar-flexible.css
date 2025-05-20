@@ -67,7 +67,6 @@ html:has(.navbar-flexible) {
         border-radius: 50%;
         position: relative;
         top: -0.5em;
-        animation: bouncing-y 500ms ease-in infinite alternate;
       }
     }
   }
